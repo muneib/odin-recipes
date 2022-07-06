@@ -1,0 +1,27 @@
+h1, h2, h3, body {
+    font-family: "Open Sans", Helvetica, sans-serif;
+    color: #4a4a4a;
+}
+
+h1 {
+    color: #ce973e;
+    font-size: 36px;
+}
+body {
+    font-size: 18px;
+}
+h2 {
+   font-size: 24px;
+}
+a {
+    color: #5995DA;
+}
+
+img {
+    width: 500px;
+}
+
+.banner {
+    height: 300px;
+    width: auto;
+}
