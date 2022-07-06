@@ -25,3 +25,8 @@ img {
     height: 300px;
     width: auto;
 }
+
+.return-button{
+    text-align: center;
+    font-size: 20px;
+}
