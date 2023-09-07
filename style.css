@@ -10,16 +10,30 @@ p, ul, ol{
     font-size: 20px;
 }
 
+h1, .table-of-content{
+    text-align: center;
+
+}
+
 h1{
     font-family: 'Times New Roman', Times, serif;
     color: #800020;
-    text-align: center;
 }
 
 h2{
     color: #A52A2A;
 }
 
+a{
+    color: darkolivegreen;
+    text-decoration: none;
+}
+
 img{
     width: 500px;
+}
+
+.table-of-content{
+    list-style:none;
+    font-size: 23px;
 }
